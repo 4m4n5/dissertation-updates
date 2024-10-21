@@ -12,7 +12,6 @@ Overall, this thesis makes contributions towards extending state-of-the-art mach
 
 Tailored deep learning methods enable consistent and critical progress toward enhancing reasoning capabilities, particularly in data- and resource-constrained settings like healthcare. Improvements in knowledge distillation using information maximization enables cheaper optimization and domain-transfer for large vision models. Information-efficient contrastive learning for aligning images with textual data leads to better performance on small datasets. Structure-preserving generative adversarial networks help minimize visual variations in medical images. Conditional diffusion can be used to develop end-to-end models for synthesizing realistic and inherently-annotated histology tissue samples with pixel-perfect nuclei localization.
 
-
 This thesis makes the following novel contributions:
 
 1. **Knowledge distillation**
