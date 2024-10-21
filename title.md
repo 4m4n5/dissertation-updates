@@ -1,1 +1,1 @@
-Computer Vision & Language And Applications In Healthcare
+Tailored Deep Learning for Enhanced Performance in Resource-Constrained Settings
